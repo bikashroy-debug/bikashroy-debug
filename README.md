@@ -13,7 +13,7 @@ and getting better one project at a time.
 ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github" />
 </p>---
 
 🧠 What I'm Learning
