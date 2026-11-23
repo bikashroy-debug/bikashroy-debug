@@ -45,23 +45,28 @@ Currently, I'm strengthening my programming fundamentals, exploring modern web d
 </td>
 <td width="40%" valign="top">
 
-### `developer.json`
 
-```json
-{
-  "name": "Bikash Roy",
-  "username": "bikashroy-debug",
-  "role": "Aspiring Full-Stack Developer",
-  "education": "BCA",
-  "country": "India",
-  "status": "Learning & Building",
-  "interests": [
-    "Web Development",
-    "Software Engineering",
-    "AI & Automation"
-  ]
-}
-```
+<td width="40%" valign="top">
+
+<h3>⚡ Developer Profile</h3>
+
+<p><b>Name:</b> Bikash Roy</p>
+<p><b>Username:</b> bikashroy-debug</p>
+<p><b>Role:</b> Aspiring Full-Stack Developer</p>
+<p><b>Education:</b> BCA Student</p>
+<p><b>Location:</b> India 🇮🇳</p>
+<p><b>Status:</b> 🟢 Learning & Building</p>
+
+<p><b>Interests:</b></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Web_Development-EA580C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software_Engineering-9D174D?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_&_Automation-7C3AED?style=flat-square" />
+</p>
+
+</td>
+
 
 </td>
 </tr>
