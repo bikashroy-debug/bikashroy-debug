@@ -96,7 +96,7 @@ Currently, I'm focusing on JavaScript, frontend development, and strengthening m
 ## `03` // ACTIVE DEVELOPMENT
 
 <table>
-<tr>
+<tr align="center">
 <td width="50%" valign="top">
 
 ### 🟢 CURRENTLY LEARNING
