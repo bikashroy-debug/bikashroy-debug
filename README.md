@@ -1,54 +1,48 @@
 
-<!-- ====================================================== -->
-<!-- BIKASH ROY | SUNSET DEVELOPER WORKSPACE                 -->
-<!-- GitHub: bikashroy-debug                                 -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!-- BIKASH ROY | MATRIX GREEN DEVELOPER WORKSPACE          -->
+<!-- GitHub: bikashroy-debug                                -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120C18,25:4A1942,55:9B3562,80:F97355,100:FDBA74&height=230&section=header&text=BIKASH%20ROY&fontSize=64&fontColor=FFF7ED&fontAlignY=38&desc=ASPIRING%20FULL-STACK%20DEVELOPER&descSize=16&descColor=FED7AA&descAlignY=58&animation=fadeIn" alt="Bikash Roy profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:052E16,70:15803D,100:4ADE80&height=230&section=header&text=BIKASH%20ROY&fontSize=65&fontColor=DCFCE7&fontAlignY=38&desc=ASPIRING%20FULL-STACK%20DEVELOPER&descSize=16&descColor=86EFAC&descAlignY=58&animation=fadeIn" alt="Bikash Roy Matrix banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=FB923C&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+workspace.;Turning+ideas+into+digital+experiences.;Learning+Full-Stack+Development.;Building.+Breaking.+Learning.+Repeating." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=900&color=4ADE80&center=true&vCenter=true&width=650&lines=Initializing+developer+workspace...;Hello+World!+I%27m+Bikash+Roy.;Learning+Full-Stack+Development.;Building+ideas+into+real+applications.;Code.+Build.+Debug.+Repeat." alt="Animated typing introduction"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=bikashroy-debug&style=for-the-badge&color=EA580C&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/bikashroy-debug?style=for-the-badge&color=9D174D&labelColor=1F1020&label=FOLLOWERS" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=bikashroy-debug&style=for-the-badge&color=15803D&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/bikashroy-debug?style=for-the-badge&color=166534&labelColor=052E16&label=FOLLOWERS" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-## `01` — THE DEVELOPER
+## `01` // DEVELOPER IDENTITY
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-### Hey, I'm Bikash 👋
+### 👨‍💻 Hello, World!
 
-A BCA student and aspiring Full-Stack Developer from India.
+I'm **Bikash Roy**, a BCA student and aspiring Full-Stack Developer from India.
 
-I enjoy understanding how technology works and transforming ideas into functional digital experiences.
+I enjoy exploring technology, writing code, solving problems, and building useful digital experiences.
 
-Currently, I'm strengthening my programming fundamentals, exploring modern web development, and building projects to improve my practical skills.
+Currently, I'm focusing on JavaScript, frontend development, and strengthening my programming fundamentals.
 
-**What drives me?**
+**My development philosophy:**
 
-- 💻 Building useful applications.
-- 🧠 Learning how things work.
-- ⚡ Solving problems through code.
-- 🚀 Exploring new technologies.
+> Understand the fundamentals. Build something real. Improve every day.
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-
-<td width="40%" valign="top">
-
-<h3>⚡ Developer Profile</h3>
+### ⚙️ SYSTEM PROFILE
 
 <p><b>Name:</b> Bikash Roy</p>
 <p><b>Username:</b> bikashroy-debug</p>
@@ -59,14 +53,9 @@ Currently, I'm strengthening my programming fundamentals, exploring modern web d
 
 <p><b>Interests:</b></p>
 
-<p>
-  <img src="https://img.shields.io/badge/Web_Development-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software_Engineering-9D174D?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_&_Automation-7C3AED?style=flat-square" />
-</p>
-
-</td>
-
+<img src="https://img.shields.io/badge/Web_Development-166534?style=flat-square&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software_Engineering-14532D?style=flat-square&logo=codefactor&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_&_Automation-15803D?style=flat-square&logo=openai&logoColor=white"/>
 
 </td>
 </tr>
@@ -74,9 +63,9 @@ Currently, I'm strengthening my programming fundamentals, exploring modern web d
 
 ---
 
-## `02` — TECH STACK
+## `02` // TECHNOLOGY STACK
 
-### Languages & Fundamentals
+### Languages & Web Development
 
 <div align="center">
 
@@ -84,7 +73,7 @@ Currently, I'm strengthening my programming fundamentals, exploring modern web d
 
 </div>
 
-### Developer Tools
+### Development Tools
 
 <div align="center">
 
@@ -92,7 +81,7 @@ Currently, I'm strengthening my programming fundamentals, exploring modern web d
 
 </div>
 
-### On My Learning Roadmap
+### Technologies on My Roadmap
 
 <div align="center">
 
@@ -100,34 +89,35 @@ Currently, I'm strengthening my programming fundamentals, exploring modern web d
 
 </div>
 
-<sub>React, Node.js, Express and MongoDB are planned learning technologies, not claimed current proficiencies.</sub>
+<sub>My current focus is C, Python, HTML, CSS, JavaScript, and Git. The technologies in my roadmap are future learning goals, not claimed proficiencies.</sub>
 
 ---
 
-## `03` — CURRENT WORKSPACE
+## `03` // ACTIVE DEVELOPMENT
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟠 CURRENTLY LEARNING
+### 🟢 CURRENTLY LEARNING
 
 - JavaScript fundamentals
 - ES6+ concepts
 - DOM manipulation
 - Responsive web design
 - Git and GitHub workflows
+- Problem-solving
 
 </td>
 <td width="50%" valign="top">
 
-### 🟣 FUTURE EXPLORATION
+### 🔜 NEXT OBJECTIVES
 
 - React.js
 - Node.js
 - Express.js
 - MongoDB
-- REST APIs
+- REST API development
 - Full-Stack applications
 
 </td>
@@ -136,12 +126,12 @@ Currently, I'm strengthening my programming fundamentals, exploring modern web d
 
 ---
 
-## `04` — PROJECT SHOWCASE
+## `04` // PROJECT DATABASE
 
 <div align="center">
 
 <a href="https://github.com/bikashroy-debug?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/ACCESS_PROJECT_DATABASE-166534?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
 
 </div>
@@ -150,32 +140,32 @@ Currently, I'm strengthening my programming fundamentals, exploring modern web d
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 FRONTEND LAB
+### 🌐 FRONTEND DEVELOPMENT
 
-Responsive websites, UI experiments, CSS layouts, and interactive web experiences.
+Responsive websites, interactive interfaces, CSS layouts, and UI experiments.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ JAVASCRIPT LAB
+### ⚡ JAVASCRIPT PROJECTS
 
-JavaScript experiments, DOM manipulation, and practical programming exercises.
+DOM manipulation, interactive functionality, and practical JavaScript applications.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 PYTHON LAB
+### 🐍 PYTHON & C
 
-Programming fundamentals, small scripts, and problem-solving exercises.
+Programming fundamentals, small programs, and logic-building exercises.
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 NEXT GENERATION
+### 🚀 FUTURE BUILDS
 
-Future full-stack applications combining frontend, backend, and databases.
+Full-stack applications with frontend, backend, APIs, and databases.
 
 </td>
 </tr>
@@ -183,88 +173,88 @@ Future full-stack applications combining frontend, backend, and databases.
 
 ---
 
-## `05` — CONTRIBUTION UNIVERSE
+## `05` // CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/bikashroy-debug/bikashroy-debug/main/assets/fish-contribution.svg" alt="GitHub contribution fish pond"/>
+<img width="100%" src="https://raw.githubusercontent.com/bikashroy-debug/bikashroy-debug/main/assets/fish-contribution.svg" alt="GitHub contribution pond"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikashroy-debug&bg_color=140D18&color=FDBA74&line=FB7185&point=FDE68A&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikashroy-debug&bg_color=000000&color=4ADE80&line=22C55E&point=BBF7D0&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20MATRIX" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## `06` — GITHUB ANALYTICS
+## `06` // GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikashroy-debug&theme=radical" alt="GitHub profile details"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikashroy-debug&theme=github_dark" alt="GitHub profile details"/>
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikashroy-debug&theme=radical" alt="Repository languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikashroy-debug&theme=radical" alt="Most committed languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikashroy-debug&theme=github_dark" alt="Repository languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikashroy-debug&theme=github_dark" alt="Most committed languages"/>
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikashroy-debug&theme=radical" alt="GitHub statistics"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikashroy-debug&theme=radical&utcOffset=5.5" alt="Productive time"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikashroy-debug&theme=github_dark" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikashroy-debug&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=bikashroy-debug&show_icons=true&hide_border=true&bg_color=140D18&title_color=FB923C&icon_color=FB7185&text_color=FFE4E6&rank_icon=github" alt="GitHub statistics"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=bikashroy-debug&show_icons=true&hide_border=true&bg_color=000000&title_color=4ADE80&icon_color=22C55E&text_color=DCFCE7&rank_icon=github" alt="GitHub statistics"/>
 
 </div>
 
 ---
 
-## `07` — 2026 OBJECTIVES
+## `07` // MISSION CONTROL 2026
 
 ```text
-╭──────────────────────────────────────────────╮
-│               MISSION CONTROL                │
-├──────────────────────────────────────────────┤
-│                                              │
-│  [ACTIVE]    Master JavaScript               │
-│  [ACTIVE]    Build practical projects        │
-│  [PLANNED]   Learn React                     │
-│  [PLANNED]   Learn Node.js & Express         │
-│  [PLANNED]   Understand databases            │
-│  [PLANNED]   Build full-stack applications   │
-│  [PLANNED]   Contribute to open source       │
-│                                              │
-╰──────────────────────────────────────────────╯
+╔══════════════════════════════════════════════╗
+║             DEVELOPER MISSION                ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  [ACTIVE]   Master JavaScript fundamentals   ║
+║  [ACTIVE]   Build real-world projects        ║
+║  [NEXT]     Learn React                      ║
+║  [NEXT]     Learn Node.js & Express          ║
+║  [NEXT]     Understand databases             ║
+║  [NEXT]     Build full-stack applications    ║
+║  [NEXT]     Contribute to open source        ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-## `08` — CONNECT WITH ME
+## `08` // ESTABLISH CONNECTION
 
 <div align="center">
 
 <a href="https://github.com/bikashroy-debug">
-<img src="https://img.shields.io/badge/GITHUB-1F1020?style=for-the-badge&logo=github&logoColor=FDBA74" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-052E16?style=for-the-badge&logo=github&logoColor=4ADE80" alt="GitHub"/>
 </a>
 
-<!-- Add your LinkedIn profile here -->
-<!-- Add your portfolio website here -->
+<!-- Add your LinkedIn URL here -->
+<!-- Add your portfolio URL here -->
 <!-- Add your professional email here -->
 
 <br/><br/>
 
-### Thanks for visiting my workspace! 👋
-
 ```bash
-$ ./build_future.sh
-> Learning...
-> Building...
-> Improving...
-> Repeat.
+$ whoami
+bikashroy-debug
+
+$ echo "Thanks for visiting my workspace!"
+Learning never stops.
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120C18,40:4A1942,75:EA580C,100:FDBA74&height=130&section=footer&text=CODE%20THE%20FUTURE.&fontSize=25&fontColor=FFF7ED&animation=fadeIn" alt="Code the future footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4ADE80,35:15803D,70:052E16,100:000000&height=130&section=footer&text=KEEP%20BUILDING.%20KEEP%20GROWING.&fontSize=21&fontColor=DCFCE7&animation=fadeIn" alt="Matrix footer"/>
 
 </div>
