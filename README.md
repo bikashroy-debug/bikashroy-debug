@@ -62,7 +62,7 @@ Git           ██████████████░░░░░░   70%
 ## 🐟 My Contribution Pond
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BikashRoy/BikashRoy/main/assets/fish-contribution.svg" alt="A fish swimming through my GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/bikashroy-debug/bikashroy-debug/main/assets/fish-contribution.svg" alt="A fish swimming through my GitHub contribution graph" />
 </p>
 
 ---
@@ -72,17 +72,17 @@ Git           ██████████████░░░░░░   70%
 <!-- To change the look, swap "ocean_dark" in the image URLs below for any other theme folder inside profile-summary-card-output. -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BikashRoy/BikashRoy/main/profile-summary-card-output/ocean_dark/0-profile-details.svg" alt="GitHub profile details" />
+  <img src="https://raw.githubusercontent.com/bikashroy-debug/bikashroy-debug/main/profile-summary-card-output/ocean_dark/0-profile-details.svg" alt="GitHub profile details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/BikashRoy/BikashRoy/main/profile-summary-card-output/ocean_dark/1-repos-per-language.svg" alt="Top languages by repository" />
-  <img width="49%" src="https://raw.githubusercontent.com/BikashRoy/BikashRoy/main/profile-summary-card-output/ocean_dark/2-most-commit-language.svg" alt="Top languages by commit" />
+  <img width="49%" src="https://raw.githubusercontent.com/bikashroy-debug/bikashroy-debug/main/profile-summary-card-output/ocean_dark/1-repos-per-language.svg" alt="Top languages by repository" />
+  <img width="49%" src="https://raw.githubusercontent.com/bikashroy-debug/bikashroy-debug/main/profile-summary-card-output/ocean_dark/2-most-commit-language.svg" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/BikashRoy/BikashRoy/main/profile-summary-card-output/ocean_dark/3-stats.svg" alt="GitHub stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/BikashRoy/BikashRoy/main/profile-summary-card-output/ocean_dark/4-productive-time.svg" alt="Most productive time of day" />
+  <img width="49%" src="https://raw.githubusercontent.com/bikashroy-debug/bikashroy-debug/main/profile-summary-card-output/ocean_dark/3-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/bikashroy-debug/bikashroy-debug/main/profile-summary-card-output/ocean_dark/4-productive-time.svg" alt="Most productive time of day" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ Git           ██████████████░░░░░░   70%
 ## 🤝 Let’s Connect
 
 <p align="left">
-  <a href="https://github.com/BikashRoy">
+  <a href="https://github.com/bikashroy-debug">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
