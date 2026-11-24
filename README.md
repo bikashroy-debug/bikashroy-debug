@@ -17,6 +17,18 @@
 <img src="https://komarev.com/ghpvc/?username=bikashroy-debug&style=for-the-badge&color=15803D&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/bikashroy-debug?style=for-the-badge&color=166534&labelColor=052E16&label=FOLLOWERS" alt="GitHub followers"/>
 
+<a href="https://github.com/bikashroy-debug">
+<img src="https://img.shields.io/badge/GITHUB-052E16?style=for-the-badge&logo=github&logoColor=4ADE80" alt="GitHub"/>
+</a>
+
+<a href="www.linkedin.com/in/bikash-roy-993814328">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<!-- Add your portfolio URL here -->
+<a href="mailto:bikashroyhere@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 </div>
 
 ---
@@ -229,32 +241,26 @@ Full-stack applications with frontend, backend, APIs, and databases.
 ╚══════════════════════════════════════════════╝
 ```
 
----
-
-## `08` // ESTABLISH CONNECTION
-
 <div align="center">
 
-<a href="https://github.com/bikashroy-debug">
-<img src="https://img.shields.io/badge/GITHUB-052E16?style=for-the-badge&logo=github&logoColor=4ADE80" alt="GitHub"/>
-</a>
-
-<a href="www.linkedin.com/in/bikash-roy-993814328">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<!-- Add your portfolio URL here -->
-<a href="mailto:bikashroyhere@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 
 <br/><br/>
-
-
+```bash
 $ whoami
 bikashroy-debug
 
 $ echo "Thanks for visiting my workspace!"
+Thanks for visiting my workspace!
 Learning never stops.
+```
+<div align="center">
+
+<h3>🟢 SYSTEM MESSAGE</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+workspace!;Learning+never+stops.;See+you+in+the+next+commit." alt="Animated closing message"/>
+
+</div>
+
 
 
 <br/>
