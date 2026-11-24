@@ -239,19 +239,23 @@ Full-stack applications with frontend, backend, APIs, and databases.
 <img src="https://img.shields.io/badge/GITHUB-052E16?style=for-the-badge&logo=github&logoColor=4ADE80" alt="GitHub"/>
 </a>
 
-<a href="linkedin.com/in/bikash-roy-993814328"></a>
+<a href="www.linkedin.com/in/bikash-roy-993814328">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <!-- Add your portfolio URL here -->
-<a href="bikashroyhere@gmail.com"></a>
+<a href="mailto:bikashroyhere@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 <br/><br/>
 
-```bash
+
 $ whoami
 bikashroy-debug
 
 $ echo "Thanks for visiting my workspace!"
 Learning never stops.
-```
+
 
 <br/>
 
