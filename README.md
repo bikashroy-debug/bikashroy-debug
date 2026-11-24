@@ -224,23 +224,23 @@ Full-stack applications with frontend, backend, APIs, and databases.
 ---
 
 ## `07` // MISSION CONTROL 2026
-<div align="center">
+
 ```text 
-╔══════════════════════════════════════════════╗
-║             DEVELOPER MISSION                ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  [ACTIVE]   Master JavaScript fundamentals   ║
-║  [ACTIVE]   Build real-world projects        ║
-║  [NEXT]     Learn React                      ║
-║  [NEXT]     Learn Node.js & Express          ║
-║  [NEXT]     Understand databases             ║
-║  [NEXT]     Build full-stack applications    ║
-║  [NEXT]     Contribute to open source        ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+       ╔══════════════════════════════════════════════╗
+       ║             DEVELOPER MISSION                ║
+       ╠══════════════════════════════════════════════╣
+       ║                                              ║
+       ║  [ACTIVE]   Master JavaScript fundamentals   ║
+       ║  [ACTIVE]   Build real-world projects        ║
+       ║  [NEXT]     Learn React                      ║
+       ║  [NEXT]     Learn Node.js & Express          ║
+       ║  [NEXT]     Understand databases             ║
+       ║  [NEXT]     Build full-stack applications    ║
+       ║  [NEXT]     Contribute to open source        ║
+       ║                                              ║
+       ╚══════════════════════════════════════════════╝
 ```
-</div>
+  
 <div align="center">
 
 
