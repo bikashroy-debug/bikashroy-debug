@@ -245,14 +245,7 @@ Full-stack applications with frontend, backend, APIs, and databases.
 
 
 <br/><br/>
-```bash
-$ whoami
-bikashroy-debug
 
-$ echo "Thanks for visiting my workspace!"
-Thanks for visiting my workspace!
-Learning never stops.
-```
 <div align="center">
 
 <h3>🟢 SYSTEM MESSAGE</h3>
