@@ -95,8 +95,8 @@ Currently, I'm focusing on JavaScript, frontend development, and strengthening m
 
 ## `03` // ACTIVE DEVELOPMENT
 
-<table>
-<tr align="center">
+<table align="center">
+<tr>
 <td width="50%" valign="top">
 
 ### 🟢 CURRENTLY LEARNING
@@ -136,7 +136,7 @@ Currently, I'm focusing on JavaScript, frontend development, and strengthening m
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -239,9 +239,9 @@ Full-stack applications with frontend, backend, APIs, and databases.
 <img src="https://img.shields.io/badge/GITHUB-052E16?style=for-the-badge&logo=github&logoColor=4ADE80" alt="GitHub"/>
 </a>
 
-<!-- Add your LinkedIn URL here -->
+<a href="linkedin.com/in/bikash-roy-993814328"></a>
 <!-- Add your portfolio URL here -->
-<!-- Add your professional email here -->
+<a href="bikashroyhere@gmail.com"></a>
 
 <br/><br/>
 
