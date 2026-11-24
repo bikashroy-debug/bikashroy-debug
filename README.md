@@ -224,8 +224,8 @@ Full-stack applications with frontend, backend, APIs, and databases.
 ---
 
 ## `07` // MISSION CONTROL 2026
-
-```text
+<div align="center">
+```text 
 ╔══════════════════════════════════════════════╗
 ║             DEVELOPER MISSION                ║
 ╠══════════════════════════════════════════════╣
@@ -240,7 +240,7 @@ Full-stack applications with frontend, backend, APIs, and databases.
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
-
+</div>
 <div align="center">
 
 
